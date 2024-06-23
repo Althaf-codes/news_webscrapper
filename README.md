@@ -23,10 +23,11 @@ This project is a simple web scraping tool built with Node.js. It uses Express, 
    ```sh
    npm start
 
-##Screenshots
+## Screenshots
+
 <img src ="screenshots/news_webscrapper1.png" width="400px">
 <img src ="screenshots/news_webscrapper2.png" width="400px">
 
 
-##Created Date
+## Created Date
 This project was created on November 14, 2021.
