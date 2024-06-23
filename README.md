@@ -24,8 +24,8 @@ This project is a simple web scraping tool built with Node.js. It uses Express, 
    npm start
 
 ##Screenshots
-<img src ="screenshot/news_webscrapper1.png" width="400px">
-<img src ="screenshot/news_webscrapper2.png" width="400px">
+<img src ="screenshots/news_webscrapper1.png" width="400px">
+<img src ="screenshots/news_webscrapper2.png" width="400px">
 
 
 ##Created Date
